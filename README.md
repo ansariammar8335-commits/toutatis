@@ -33,22 +33,22 @@ toutatis -u username -s instagramsessionid
 ### Find information from an Instagram ID
 
 ```
-toutatis -i instagramID -s instagramsessionid
+toutatis -i Rabbit.4424528 -s instagramsessionid
 ```
 
 ## 📈 Example
 
 ```
-Informations about     : xxxusernamexxx
-Full Name              : xxxusernamesxx | userID : 123456789
+Informations about     : Rabbit.4424528
+Full Name              : xxxusernamesxx | userID : Rabbit.4424528
 Verified               : False | Is buisness Account : False
 Is private Account     : False
-Follower               : xxx | Following : xxx
-Number of posts        : x
-Number of tag in posts : x
+Follower               : 6| Following : 6
+Number of posts        : 0
+Number of tag in posts : 0
 External url           : http://example.com
-IGTV posts             : x
-Biography              : example biography
+IGTV posts             : 0
+Biography              : no biography
 Public Email           : public@example.com
 Public Phone           : +00 0 00 00 00 00
 Obfuscated email       : me********s@examplemail.com
