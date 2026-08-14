@@ -27,20 +27,19 @@ python3 setup.py install
 ### Find information from a username
 
 ```
-toutatis -u username -s instagramsessionid
-```
+toutatis -u username -s 
 
-### Find information from an Instagram ID
+### Find mobile number 
 
 ```
-toutatis -i instagramID -s instagramsessionid
-```
+toutatis -t Rabbit.4424528-s 
 
 ## 📈 Example
 
 ```
-Informations about     : xxxusernamexxx
-Full Name              : xxxusernamesxx | userID : 123456789
+Informations about     : Rabbit.4424528
+Full Name              : Rabbit
+ : rabbit.4424528
 Verified               : False | Is buisness Account : False
 Is private Account     : False
 Follower               : xxx | Following : xxx
